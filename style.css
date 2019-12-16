@@ -349,9 +349,11 @@
   }
   /* handy */
   @media screen and (min-width: 450px){
-    body {color: rgb(156, 66, 81)}
+    body {background-color: rgb(136, 116, 136);
+         color: rgb(255, 246, 192)}
+    {
   }
   @media screen and (min-width: 1023px){
-      body {background-color: wheat;}
+      body {background-color: rgb(199, 163, 98);}
     h1, p, ol{color:rgb(48, 19, 133)}
   }
